@@ -1,0 +1,9 @@
+html, body {
+  height:100%;
+}
+
+.pngContainer {
+  background-image: url(https://www.wikimedia.org/static/images/project-logos/enwiki-1.5x.png);
+  height:100%;
+  width:100%;
+}
